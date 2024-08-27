@@ -28,7 +28,7 @@ KHOT is a modern, real-time chat application built for Android using Android Stu
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/khot-mobile-chat.git
+    git clone https://github.com/kavingam/khot-mobile-chat.git
     cd khot-mobile-chat
     ```
 
@@ -103,6 +103,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email:** your-email@example.com
-- **GitHub:** [your-username](https://github.com/your-username)
-- **Twitter:** [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- **Email:** bhaitigam71@example.com
+- **GitHub:** [kavingam](https://github.com/kavingam)
+- **Twitter:** [@kavingam](https://twitter.com/kavingam)
